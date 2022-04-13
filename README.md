@@ -95,8 +95,8 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Diferensiasi-Selisih-Mundur&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/aaneviannanda/Flouws-profile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Flouws-profile&hide_border=true&theme=radical" />
+<a href="https://github.com/aaneviannanda/Juto-Apps_pwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Juto-Apps_pwa&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/aaneviannanda/Klasifikasi-Huruf-Hijaiyah-Tulisan-Tangan">
