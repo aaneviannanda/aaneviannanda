@@ -1,4 +1,4 @@
-# Hi I'm Aan Evian Nanda <img src="/src/wave.gif" width="30px" hight="30px">
+# Hi I'm Aan Evian Nanda
 
 <img src="/src/header_.png"/>
 
