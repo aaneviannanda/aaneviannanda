@@ -87,12 +87,12 @@ Find out more about me & feel free to connect with me here:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Aplikasi-Informasi-Kebun-Binatang&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/aaneviannanda/Bookshelf-Apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Bookshelf-Apps&hide_border=true&theme=radical" />
+<a href="https://github.com/aaneviannanda/Rafa-cake-and-bakery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Rafa-cake-and-bakery&hide_border=true&theme=radical" />
 </a>
 
-<a href="https://github.com/aaneviannanda/Diferensiasi-Selisih-Mundur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=Diferensiasi-Selisih-Mundur&hide_border=true&theme=radical" />
+<a href="https://github.com/aaneviannanda/my-note-v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aaneviannanda&repo=my-note-v2&hide_border=true&theme=radical" />
 </a>
 
 <a href="https://github.com/aaneviannanda/Juto-Apps_pwa">
